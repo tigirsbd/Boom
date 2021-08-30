@@ -1,1 +1,2 @@
-# Boom
+cd Boom
+python Boom.py
